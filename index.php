@@ -7,6 +7,7 @@ require_once('lib/Connection.php');
 require_once('App/Controller/HomeController.php');
 require_once('App/Controller/ErroController.php');
 require_once('App/Controller/RegisterController.php');
+require_once('App/Controller/OrderController.php');
 require_once('App/Model/Order.php');
 
 require_once('vendor/autoload.php');
